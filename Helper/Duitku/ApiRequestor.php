@@ -1,4 +1,5 @@
 <?php
+namespace Duitku\Vamandirih2h\Helper\Duitku;
 
 class Duitku_Vamandirih2h_ApiRequestor {
 
