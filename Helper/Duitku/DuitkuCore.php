@@ -1,7 +1,5 @@
 <?php
-namespace Duitku\Vamandirih2h\Helper\Duitku;
-// include_once('ApiRequestor.php');
-use Duitku\Vamandirih2h\Helper\Duitku\Duitku_Vamandirih2h_ApiRequestor;
+include_once('ApiRequestor.php');
 class Duitku_Vamandirih2h_Core {
 
   public static function getRedirectionUrl($baseUrl, $params)
